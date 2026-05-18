@@ -3,6 +3,7 @@
 A professional Django REST Framework-based Library Management System with a beautiful, responsive web interface for managing books.
 
 ---
+file:///C:/Users/KLE%20BCA/Downloads/WhatsApp%20Image%202026-05-18%20at%2010.48.09%20AM.jpeg
 
 ## 🌐 What is an API?
 
